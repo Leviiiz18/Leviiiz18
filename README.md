@@ -1,58 +1,126 @@
+<div align="center">
+
 <img src="me git.jpeg" width="100%" />
 
-# RUDRA
+<br/>
 
-Student engineer exploring AI, systems, and intelligent design.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=42&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=RUDRA;Student+Engineer;AI+%26+Systems)
 
-I like building things that **hold up under real conditions**, not just ideas that look impressive once.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-website--leevee--os.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://website-leevee-os.vercel.app/)
+
+</div>
+
+---
+
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=RUDRA&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=06000f&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd"/>
+
+**Student engineer exploring AI, systems, and intelligent design.**
+
+I like building things that **hold up under real conditions** — not just ideas that look impressive once.
 Most of my work focuses on understanding how systems behave, where they fail, and how to design them better.
 
-Python is my primary language — it’s where most of my thinking happens. I use it to experiment with AI concepts, prototype ideas, and build systems that value clarity and reliability. When ideas need a visible form, I work with HTML, CSS, and JavaScript.
+Python is my primary language — it's where most of my thinking happens.
+I use it to experiment with AI concepts, prototype ideas, and build systems that value **clarity and reliability**.
+When ideas need a visible form, I work with **HTML, CSS, and JavaScript**.
 
-I prefer learning by doing: building, breaking, fixing, and refining. Iteration matters more to me than perfection.
+> I prefer learning by doing: building, breaking, fixing, and refining.
+> Iteration matters more to me than perfection.
 
----
-
-## What I Work With
-- Python (primary)
-- AI / ML fundamentals
-- System-oriented problem solving
-- HTML, CSS, JavaScript
+<br clear="right"/>
 
 ---
 
-## What I Like Building
-- Intelligent systems that solve real constraints  
-- Tools that optimize processes instead of just predicting outcomes  
-- Projects where structure and logic matter more than hype  
+## ⚙️ What I Work With
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-a78bfa?style=for-the-badge&logo=openai&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-7c3aed?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-a78bfa?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=white)
+
+</div>
+
+```python
+rudra = {
+    "languages"  : ["Python", "HTML", "CSS", "JavaScript"],
+    "focus"      : ["AI / ML fundamentals", "System-oriented problem solving"],
+    "approach"   : "Build → Break → Fix → Refine",
+    "philosophy" : "Understand *why* it works, not just that it works"
+}
+```
 
 ---
 
-## Achievements
-- 🏆 **Winner — Atherion 22K25 Hackathon**
-- Founding Coordinator of a National-Level Tech Fest
-- Built a **supply chain optimization system** for automated analysis and decision-making
+## 🔨 What I Like Building
+
+| | Focus | Why it matters |
+|---|---|---|
+| 🤖 | **Intelligent systems** | Solve real constraints, not just demo well |
+| ⚡ | **Optimization tools** | Optimize processes, don't just predict outcomes |
+| 🏗️ | **Structure-first projects** | Logic and architecture over hype |
 
 ---
 
-## Beyond Code
-I also enjoy graphic design, drawing, video editing, and gaming.  
-Fun fact: I designed the banner you’re seeing here — and yes, I instinctively say **“pspsps”** to cats.
+## 🏆 Achievements
+
+<div align="center">
+
+| 🥇 | Winner — **Atherion 22K25 Hackathon** |
+|---|---|
+| 🎯 | **Founding Coordinator** of a National-Level Tech Fest |
+| 🔗 | Built a **supply chain optimization system** for automated analysis and decision-making |
+
+</div>
 
 ---
 
-## How I Approach Technology
-I don’t see AI as magic or shortcuts.  
-To me, it’s a tool — useful only when it’s grounded in logic, constraints, and real-world behavior.
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RUDRA&theme=midnight-purple&hide_border=true&background=06000f&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA&bg_color=06000f&color=a78bfa&line=7c3aed&point=c4b5fd&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 How I Approach Technology
+
+I don't see AI as magic or shortcuts.
+To me, it's a tool — **useful only when it's grounded in logic, constraints, and real-world behavior.**
 
 I enjoy working on problems where:
-- trade-offs matter  
-- assumptions are tested  
-- and solutions need to adapt, not just respond  
+
+- **trade-offs matter**
+- **assumptions are tested**
+- **solutions need to adapt, not just respond**
 
 Understanding *why* something works is as important to me as making it work.
 
 ---
 
-Learning is ongoing.  
-This GitHub is a record of that process.
+## 🎨 Beyond Code
+
+`Graphic Design` · `Drawing` · `Video Editing` · `Gaming` · saying *pspsps* to cats
+
+> Fun fact: I designed the banner you're seeing up top.
+
+---
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/→%20View%20My%20Portfolio-7c3aed?style=for-the-badge)](https://website-leevee-os.vercel.app/)
+
+<br/>
+
+*Learning is ongoing. This GitHub is a record of that process.*
+
+![](https://komarev.com/ghpvc/?username=RUDRA&color=7c3aed&style=flat-square&label=profile+views)
+
+</div>
