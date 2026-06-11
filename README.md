@@ -80,11 +80,11 @@ rudra = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RUDRA&theme=midnight-purple&hide_border=true&background=06000f&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDRA&layout=compact&theme=midnight-purple&hide_border=true&bg_color=06000f&title_color=a78bfa&text_color=c4b5fd" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA&bg_color=06000f&color=a78bfa&line=7c3aed&point=c4b5fd&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=RUDRA&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=6" />
 
 </div>
 
