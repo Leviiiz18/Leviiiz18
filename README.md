@@ -12,9 +12,11 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=RUDRA&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="View Count" />
+<img src="https://komarev.com/ghpvc/?username=Leviiiz18&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="View Count" />
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-website--leevee--os.vercel.app-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://website-leevee-os.vercel.app/)
+<a href="https://website-leevee-os.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-website--leevee--os.vercel.app-a78bfa?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
@@ -22,7 +24,7 @@
 
 ---
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=RUDRA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd"/>
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=Leviiiz18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd"/>
 
 ### 🚀 Student engineer exploring AI, systems, and intelligent design.
 
@@ -88,8 +90,8 @@ rudra = {
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDRA&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c4b5fd" />
-<img src="https://github-profile-trophy.vercel.app/?username=RUDRA&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leviiiz18&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c4b5fd" />
+<img src="https://github-profile-trophy.vercel.app/?username=Leviiiz18&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=6" />
 
 </div>
 
