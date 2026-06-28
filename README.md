@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="me git.jpeg" width="100%" />
+<a href="https://website-leevee-os.vercel.app/"><img src="RLV.jpeg" align="right" width="60" style="opacity: 0.6; border-radius: 50%" alt="RLV Logo"/></a>
+
+<video src="purple.mp4" autoplay loop muted width="100%"></video>
+
+<img src="1231.png" width="90%" alt="Header" />
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=42&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=RUDRA;Student+Engineer;AI+%26+Systems)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=42&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=RUDRA;Student+Engineer;AI+%26+Systems;Creator+&+Innovator)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-website--leevee--os.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://website-leevee-os.vercel.app/)
+
+<img src="https://komarev.com/ghpvc/?username=RUDRA&color=a78bfa&style=for-the-badge&label=VISUAL+IMPACT" alt="View Count" />
 
 </div>
 
@@ -55,11 +61,15 @@ rudra = {
 
 ## 🔨 What I Like Building
 
+<div align="center">
+
 | | Focus | Why it matters |
 |---|---|---|
 | 🤖 | **Intelligent systems** | Solve real constraints, not just demo well |
 | ⚡ | **Optimization tools** | Optimize processes, don't just predict outcomes |
 | 🏗️ | **Structure-first projects** | Logic and architecture over hype |
+
+</div>
 
 ---
 
@@ -96,31 +106,14 @@ I don't see AI as magic or shortcuts.
 To me, it's a tool — **useful only when it's grounded in logic, constraints, and real-world behavior.**
 
 I enjoy working on problems where:
-
 - **trade-offs matter**
 - **assumptions are tested**
 - **solutions need to adapt, not just respond**
 
-Understanding *why* something works is as important to me as making it work.
-
----
-
-## 🎨 Beyond Code
-
-`Graphic Design` · `Drawing` · `Video Editing` · `Gaming` · saying *pspsps* to cats
-
-> Fun fact: I designed the banner you're seeing up top.
-
 ---
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/→%20View%20My%20Portfolio-7c3aed?style=for-the-badge)](https://website-leevee-os.vercel.app/)
-
-<br/>
-
-*Learning is ongoing. This GitHub is a record of that process.*
-
-![](https://komarev.com/ghpvc/?username=RUDRA&color=7c3aed&style=flat-square&label=profile+views)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer" width="100%"/>
+  <br/>
+  <i>Learning is ongoing. This GitHub is a record of that process.</i>
 </div>
