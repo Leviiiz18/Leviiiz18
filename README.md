@@ -2,13 +2,10 @@
 
 <video src="purple.mp4" autoplay loop muted width="100%"></video>
 
-<img src="1231.png" width="85%" alt="Header Image" />
+<img src="123444.png" width="85%" alt="Header Image" />
 
 <br/><br/>
 
-<a href="https://website-leevee-os.vercel.app/">
-  <img src="RLV.jpeg" height="50" style="border-radius: 50%; margin-right: 10px;" alt="RLV Avatar" />
-</a>
 <a href="https://website-leevee-os.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=40&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=RUDRA;Student+Engineer;AI+%26+Systems;Creator+&+Innovator" alt="Typing SVG" />
 </a>
