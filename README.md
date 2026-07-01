@@ -5,7 +5,9 @@
 <div align="center">
 
 <!-- ═══════ ANIMATED HEADER BANNER ═══════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0b2e,50:2d1b4e,100:7c3aed&height=250&section=header&text=RUDRA&fontSize=70&fontColor=c4b5fd&animation=fadeIn&fontAlignY=40&desc=Student%20Engineer%20%7C%20AI%20%26%20Systems%20%7C%20Creator&descSize=16&descAlignY=65&stroke=7c3aed&strokeWidth=2" width="100%"/>
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="200px" alt="Animated Matrix Header"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=900&size=60&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=100&lines=RUDRA" alt="Name Banner" />
 
 <br/>
 
@@ -34,9 +36,9 @@
 <br/><br/>
 
 <!-- ═══════ DYNAMIC MEDIA ═══════ -->
-<video src="https://github.com/Leviiiz18/Leviiiz18/raw/main/purple.mp4" autoplay loop muted playsinline width="100%"></video>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation"/>
 <br/><br/>
-<img src="123444.png" width="300" alt="RLV Watermark" />
+<img src="https://raw.githubusercontent.com/Leviiiz18/Leviiiz18/main/123444.png" width="220" alt="RLV Logo"/>
 <br/><br/>
 
 <!-- ═══════ NEON DIVIDER ═══════ -->
