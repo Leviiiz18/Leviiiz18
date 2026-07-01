@@ -25,11 +25,6 @@
 </p>
 
 <br/>
-<div align="center">
-  <img src="https://count.getloli.com/get/@Leviiiz18?theme=pixel" alt="Animated Profile View Counter" />
-</div>
-
-<br/>
 
 <!-- ═══════ TYPING ANIMATION ═══════ -->
 <a href="https://website-leevee-os.vercel.app/">
