@@ -11,7 +11,7 @@
 
 <!-- ═══════ STATUS & BADGES ROW ═══════ -->
 <p>
-  <img src="https://img.shields.io/badge/●_AVAILABLE-22c55e?style=for-the-badge&labelColor=0f0f1a&color=0d1117&logoColor=22c55e" alt="Available"/>
+  <img src="https://img.shields.io/badge/%E2%97%8F_AVAILABLE-22c55e?style=for-the-badge&labelColor=0f0f1a&color=0d1117&logoColor=22c55e" alt="Available"/>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Leviiiz18&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Views"/>
   &nbsp;
@@ -23,6 +23,12 @@
     <img src="https://img.shields.io/badge/⭐_GITHUB-0f0f1a?style=for-the-badge&labelColor=0f0f1a&color=1a0b2e&logo=github&logoColor=a78bfa" alt="GitHub"/>
   </a>
 </p>
+
+<br/>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Leviiiz18/count.svg" alt="Animated Profile View Counter" />
+</div>
+
 
 <br/>
 
