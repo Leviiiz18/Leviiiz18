@@ -25,12 +25,6 @@
 </p>
 
 <br/>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Leviiiz18/count.svg" alt="Animated Profile View Counter" />
-</div>
-
-
-<br/>
 
 <!-- ═══════ TYPING ANIMATION ═══════ -->
 <a href="https://website-leevee-os.vercel.app/">
@@ -71,7 +65,7 @@ I like building things that **hold up under real conditions** — not just ideas
 <td width="42%" valign="top" align="center">
 
 <!-- ═══════ GITHUB STATS CARD ═══════ -->
-<img src="https://github-readme-stats.vercel.app/api?username=Leviiiz18&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&border_radius=20&card_width=340&ring_color=7c3aed&fire_color=f472b6" width="340" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leviiiz18&theme=radical" width="340" alt="Stats"/>
 
 <br/><br/>
 
@@ -103,7 +97,13 @@ I like building things that **hold up under real conditions** — not just ideas
 <br/>
 
 <!-- ═══════ CODE BLOCK ═══════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=%7B%22languages%22%3A+%5B%22Python%22%2C+%22HTML%22%2C+%22CSS%22%2C+%22JavaScript%22%5D%2C+%22focus%22%3A+%5B%22AI+%2F+ML%22%2C+%22Systems%22%5D%2C+%22approach%22%3A+%22Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Refine%22%7D" alt="Code Snippet"/>
+```json
+{
+  "languages": ["Python", "HTML", "CSS", "JavaScript"],
+  "focus": ["AI / ML", "Systems"],
+  "approach": "Build → Break → Fix → Refine"
+}
+```
 
 </div>
 
@@ -196,9 +196,9 @@ I like building things that **hold up under real conditions** — not just ideas
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leviiiz18&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&border_radius=16&langs_count=8" height="195" alt="Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leviiiz18&theme=radical" height="195" alt="Languages"/>
   &nbsp;&nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=Leviiiz18&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=4" height="195" alt="Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leviiiz18&theme=radical" height="195" alt="Stats Summary"/>
 </p>
 
 <br/>
@@ -247,10 +247,6 @@ I like building things that **hold up under real conditions** — not just ideas
 <!-- ═══════ FOOTER ═══════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:2d1b4e,100:7c3aed&height=120&section=footer" width="100%"/>
-
-<br/>
-
 <p>
   <a href="https://github.com/Leviiiz18">
     <img src="https://img.shields.io/badge/GitHub-0f0f1a?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0f0f1a" alt="GitHub"/>
@@ -262,5 +258,9 @@ I like building things that **hold up under real conditions** — not just ideas
 </p>
 
 **Built with passion, caffeine, and a lot of iteration.** ☕
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:2d1b4e,100:7c3aed&height=120&section=footer" width="100%"/>
 
 </div>
