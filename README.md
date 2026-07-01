@@ -33,6 +33,12 @@
 
 <br/><br/>
 
+<!-- ═══════ DYNAMIC MEDIA ═══════ -->
+<video src="https://github.com/Leviiiz18/Leviiiz18/raw/main/purple.mp4" autoplay loop muted playsinline width="100%"></video>
+<br/><br/>
+<img src="123444.png" width="300" alt="RLV Watermark" />
+<br/><br/>
+
 <!-- ═══════ NEON DIVIDER ═══════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
